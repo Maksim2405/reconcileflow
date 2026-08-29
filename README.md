@@ -27,7 +27,9 @@ ReconcileFlow automates the initial reconciliation process and presents exceptio
 
 ## Live demo
 
-The public Streamlit application link will be added after deployment.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reconcileflow-maksim2405.streamlit.app/)
+
+[Launch the ReconcileFlow application](https://reconcileflow-maksim2405.streamlit.app/)
 
 ## Main features
 
