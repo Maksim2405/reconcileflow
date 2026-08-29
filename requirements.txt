@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+rapidfuzz>=3.9
+XlsxWriter>=3.2

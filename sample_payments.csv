@@ -1,0 +1,13 @@
+payment_id,payment_date,reference,payer_name,payment_amount,currency
+PAY-001,2026-07-15,INV-1001,Digital Supply DOO,1200.0,EUR
+PAY-002,2026-07-16,INV-1002,Green Market LLC,500.0,EUR
+PAY-003,2026-07-20,INV1003,Nova Tech Solution,1500.0,EUR
+PAY-004,2026-07-21,INV-1004,Balkan Office Group,700.0,EUR
+PAY-005,2026-07-25,INV-1005,Adriatic Retail,2100.0,EUR
+PAY-006,2026-07-25,INV-1005,Adriatic Retail,2100.0,EUR
+PAY-007,2026-07-28,July consulting payment,North Star Consult,975.0,EUR
+PAY-008,2026-08-01,INV-9999,Unknown Corporation,300.0,EUR
+PAY-009,2026-08-02,INV-1008,Blue River Logistics,1800.0,EUR
+PAY-010,2026-08-04,INV-1009,Bright Media Studio,720.0,EUR
+PAY-011,2026-08-05,INV-1010,Delta Foods,600.0,EUR
+PAY-012,2026-08-06,INV-1010,Delta Foods,500.0,EUR

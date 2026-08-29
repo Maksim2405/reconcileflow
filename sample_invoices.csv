@@ -1,0 +1,11 @@
+invoice_id,customer_name,invoice_date,due_date,invoice_amount,currency
+INV-1001,Digital Supply DOO,2026-07-01,2026-07-15,1200.0,EUR
+INV-1002,Green Market LLC,2026-07-03,2026-07-17,850.0,EUR
+INV-1003,Nova Tech Solutions,2026-07-05,2026-07-19,1500.0,EUR
+INV-1004,Balkan Office Group,2026-07-08,2026-07-22,640.0,EUR
+INV-1005,Adriatic Retail,2026-07-10,2026-07-24,2100.0,EUR
+INV-1006,North Star Consulting,2026-07-12,2026-07-26,975.0,EUR
+INV-1007,Urban Home DOO,2026-07-15,2026-07-29,430.0,EUR
+INV-1008,Blue River Logistics,2026-07-18,2026-08-01,1800.0,EUR
+INV-1009,Bright Media Studio,2026-07-20,2026-08-03,720.0,EUR
+INV-1010,Delta Foods,2026-07-22,2026-08-05,1100.0,EUR
